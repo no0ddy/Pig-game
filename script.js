@@ -89,3 +89,4 @@ btnHold.addEventListener('click', function () {
 
 //reseting the game
 btnNew.addEventListener('click', intl);
+//pushing to github
