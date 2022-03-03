@@ -87,5 +87,5 @@ btnHold.addEventListener('click', function () {
   }
 });
 
-//resting the game
+//reseting the game
 btnNew.addEventListener('click', intl);
